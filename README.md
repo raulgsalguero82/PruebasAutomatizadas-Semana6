@@ -86,3 +86,4 @@ c- Asegúrese de copiar los resultados de la ejecución de las capturas de produ
 
 * Ejecución: Desde la carpeta visualRegresor ejecutar node index.js
 * Resultados: Dentro de la carpeta visualRegresor/results encontra el fichero index.html que contiene el fichero generado a partir de la ejecución .
+
